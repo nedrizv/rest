@@ -1,6 +1,6 @@
 {
 	"profiles" : [
-		{ "id": 1, "username" : "sayed", "password": "nid", firstName: "Ned", lastName: "Rizvi"},
-		{ "id": 2, "username" : "nid123", "password": "riz", firstName: "Nid", lastName: "Fatima"}		
+		{ "id": 1, "username" : "sayed", "password": "nid", "first_name": "Ned", "last_name": "Rizvi"},
+		{ "id": 2, "username" : "nid123", "password": "riz", "first_name": "Nid", "last_name": "Fatima"}		
 	]
 }
